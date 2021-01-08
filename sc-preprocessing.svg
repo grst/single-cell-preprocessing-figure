@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   sodipodi:docname="sc-preprocessing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="276.77024"
+     inkscape:cy="483.05849"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1356"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1421"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="283.14273,193.03201"
+       orientation="1,0"
+       id="guide897" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1377"
+       transform="translate(0.70409775,15.31649)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect837"
+         width="34.915565"
+         height="8.903554"
+         x="86.83812"
+         y="13.131613"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="90.255379"
+         y="19.598522"
+         id="text841"><tspan
+           sodipodi:role="line"
+           id="tspan839"
+           x="90.255379"
+           y="19.598522"
+           style="stroke-width:0.264583">raw counts</tspan></text>
+    </g>
+    <g
+       id="g1382"
+       transform="translate(0.16449356,14.450497)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833"
+         width="15.080818"
+         height="7.9083767"
+         x="97.295097"
+         y="28.604553"
+         ry="3.9541883"
+         rx="3.7551117" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="100.65862"
+         y="34.597462"
+         id="text845"><tspan
+           sodipodi:role="line"
+           id="tspan843"
+           x="100.65862"
+           y="34.597462"
+           style="stroke-width:0.264583">QC</tspan></text>
+    </g>
+    <g
+       id="g1387"
+       transform="translate(-2.1878586,14.208346)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect837-7"
+         width="42.985077"
+         height="8.8930511"
+         x="85.69532"
+         y="42.463726"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="89.309135"
+         y="48.914028"
+         id="text841-3"><tspan
+           sodipodi:role="line"
+           id="tspan839-6"
+           x="89.309135"
+           y="48.914028"
+           style="stroke-width:0.264583">filtered counts</tspan></text>
+    </g>
+    <g
+       id="g1435"
+       transform="translate(3.9451199,-1.5018466)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect837-7-2"
+         width="36.48296"
+         height="8.9014254"
+         x="82.8134"
+         y="142.82588"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="85.506454"
+         y="148.73286"
+         id="text841-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan839-6-3"
+           x="85.506454"
+           y="148.73286"
+           style="stroke-width:0.264583">latent space</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect837-7-8"
+       width="36.583839"
+       height="8.9012899"
+       x="86.708084"
+       y="84.886665"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="89.009323"
+       y="91.199974"
+       id="text841-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan839-6-5"
+         x="89.009323"
+         y="91.199974"
+         style="stroke-width:0.264583">norm counts</tspan></text>
+    <g
+       id="g1440"
+       transform="translate(9.3389969,-15.160687)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect837-7-2-2"
+         width="31.38298"
+         height="8.8930511"
+         x="79.969513"
+         y="184.70763"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="83.020302"
+         y="190.57655"
+         id="text841-3-9-0"><tspan
+           sodipodi:role="line"
+           id="tspan839-6-3-6"
+           x="83.020302"
+           y="190.57655"
+           style="stroke-width:0.264583">neighbors</tspan></text>
+    </g>
+    <g
+       id="g1372"
+       transform="translate(29.059129,-7.9247764)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect837-7-2-2-1"
+         width="22.793825"
+         height="8.8930511"
+         x="43.471741"
+         y="205.59589"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="46.61367"
+         y="212.00951"
+         id="text841-3-9-0-5"><tspan
+           sodipodi:role="line"
+           id="tspan839-6-3-6-5"
+           x="46.61367"
+           y="212.00951"
+           style="stroke-width:0.264583">UMAP</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect837-7-2-2-1-7"
+         width="26.301521"
+         height="8.9162331"
+         x="82.120071"
+         y="205.77341"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="85.376144"
+         y="212.21272"
+         id="text841-3-9-0-5-6"><tspan
+           sodipodi:role="line"
+           id="tspan839-6-3-6-5-5"
+           x="85.376144"
+           y="212.21272"
+           style="stroke-width:0.264583">clusters</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect1047"
+       width="11.854523"
+       height="218.06192"
+       x="5.2118697"
+       y="7.9914546" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="9.3393764"
+       y="216.09242"
+       id="text1051"><tspan
+         sodipodi:role="line"
+         id="tspan1049"
+         x="9.3393764"
+         y="216.09242"
+         style="stroke-width:0.264583">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="7.3286071"
+       y="16.885321"
+       id="text1055"><tspan
+         sodipodi:role="line"
+         id="tspan1053"
+         x="7.3286071"
+         y="16.885321"
+         style="stroke-width:0.264583">&gt;20k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="7.9143195"
+       y="169.45602"
+       id="text1059"><tspan
+         sodipodi:role="line"
+         id="tspan1057"
+         x="7.9143195"
+         y="169.45602"
+         style="stroke-width:0.264583">&lt;50</tspan></text>
+    <g
+       id="g1425"
+       transform="translate(3.4381304,3.5554998)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect837-7-8-0"
+         width="20.767447"
+         height="8.9255266"
+         x="91.178146"
+         y="109.53777"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="94.111221"
+         y="116.0156"
+         id="text841-3-4-7"><tspan
+           sodipodi:role="line"
+           id="tspan839-6-5-8"
+           x="94.111221"
+           y="116.0156"
+           style="stroke-width:0.264583">HVGs</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="6.6073842"
+       y="131.26997"
+       id="text1084"><tspan
+         sodipodi:role="line"
+         id="tspan1082"
+         x="6.6073842"
+         y="131.26997"
+         style="stroke-width:0.264583">2k-6k</tspan></text>
+    <image
+       width="97.102081"
+       height="36.247917"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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
+"
+       id="image1096"
+       x="-113.92595"
+       y="7.2871699" />
+    <g
+       id="g1405"
+       transform="translate(-1.782402,13.873459)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-7"
+         width="17.678879"
+         height="7.9083748"
+         x="81.187309"
+         y="57.400311"
+         ry="3.8596933"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="84.993515"
+         y="63.020451"
+         id="text845-2"><tspan
+           sodipodi:role="line"
+           id="tspan843-7"
+           x="84.993515"
+           y="63.020451"
+           style="stroke-width:0.264583">cpm</tspan></text>
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-7-2"
+         width="20.052742"
+         height="7.9083748"
+         x="112.32475"
+         y="57.400311"
+         ry="3.9541874"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="115.69564"
+         y="63.021076"
+         id="text845-2-6"><tspan
+           sodipodi:role="line"
+           x="115.69564"
+           y="63.021076"
+           style="stroke-width:0.264583"
+           id="tspan1164">scran</tspan></text>
+    </g>
+    <g
+       id="g1420"
+       transform="translate(-1.112257,5.2469583)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-7-0"
+         width="36.900555"
+         height="7.908371"
+         x="87.66198"
+         y="94.245529"
+         ry="3.1350689"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="92.03788"
+         y="100.21478"
+         id="text845-2-61"><tspan
+           sodipodi:role="line"
+           id="tspan843-7-5"
+           x="92.03788"
+           y="100.21478"
+           style="stroke-width:0.264583">select HVG</tspan></text>
+    </g>
+    <g
+       id="g1410"
+       transform="translate(-185.83133,68.172535)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-7-2-9"
+         width="26.313616"
+         height="7.908371"
+         x="140.98091"
+         y="83.71022"
+         ry="3.8931797"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="144.53072"
+         y="89.614937"
+         id="text845-2-6-4"><tspan
+           sodipodi:role="line"
+           x="144.53072"
+           y="89.614937"
+           style="stroke-width:0.264583"
+           id="tspan1210">combat</tspan></text>
+    </g>
+    <g
+       id="g1397"
+       transform="translate(-127.79693,28.438082)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-7-2-9-0"
+         width="38.077354"
+         height="7.908371"
+         x="35.874096"
+         y="71.222603"
+         ry="3.8931799"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="39.952221"
+         y="77.180565"
+         id="text845-2-6-4-9"><tspan
+           sodipodi:role="line"
+           x="39.952221"
+           y="77.180565"
+           style="stroke-width:0.264583"
+           id="tspan1210-1">sctransform</tspan></text>
+    </g>
+    <g
+       id="g1415"
+       transform="translate(-260.28271,59.468543)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-77"
+         width="18.14114"
+         height="7.9083786"
+         x="184.11856"
+         y="73.062523"
+         ry="3.9541886"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="187.48207"
+         y="79.055435"
+         id="text845-1"><tspan
+           sodipodi:role="line"
+           id="tspan843-1"
+           x="187.48207"
+           y="79.055435"
+           style="stroke-width:0.264583">scVI</tspan></text>
+    </g>
+    <g
+       id="g1430"
+       transform="translate(1.9517174,1.7881421)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-77-5"
+         width="18.13868"
+         height="7.9083786"
+         x="93.978943"
+         y="125.92306"
+         ry="3.9541888"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="97.342453"
+         y="131.91597"
+         id="text845-1-9"><tspan
+           sodipodi:role="line"
+           id="tspan843-1-7"
+           x="97.342453"
+           y="131.91597"
+           style="stroke-width:0.264583">PCA</tspan></text>
+    </g>
+    <g
+       id="g1356"
+       transform="translate(13.722577,-17.816645)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-77-7"
+         width="23.987928"
+         height="7.908371"
+         x="100.44298"
+         y="173.92072"
+         ry="3.9541855"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="104.47829"
+         y="179.85609"
+         id="text845-1-6"><tspan
+           sodipodi:role="line"
+           id="tspan843-1-73"
+           x="104.47829"
+           y="179.85609"
+           style="stroke-width:0.264583">bbknn</tspan></text>
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-77-7-6"
+         width="30.726942"
+         height="7.908371"
+         x="58.12394"
+         y="173.5724"
+         ry="3.9541855"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="60.84671"
+         y="178.94899"
+         id="text845-1-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan843-1-73-6"
+           x="60.84671"
+           y="178.94899"
+           style="stroke-width:0.264583">neighbors</tspan></text>
+    </g>
+    <g
+       id="g1547"
+       transform="translate(-0.58450317)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-77-7-0"
+         width="22.113419"
+         height="7.908371"
+         x="111.51697"
+         y="183.40854"
+         ry="3.9541855"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="115.03272"
+         y="189.34392"
+         id="text845-1-6-8"><tspan
+           sodipodi:role="line"
+           id="tspan843-1-73-8"
+           x="115.03272"
+           y="189.34392"
+           style="stroke-width:0.264583">leiden</tspan></text>
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-77-7-5"
+         width="21.143885"
+         height="7.908371"
+         x="77.53862"
+         y="183.40854"
+         ry="3.9541855"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="80.865929"
+         y="189.35519"
+         id="text845-1-6-0"><tspan
+           sodipodi:role="line"
+           id="tspan843-1-73-9"
+           x="80.865929"
+           y="189.35519"
+           style="stroke-width:0.264583">umap</tspan></text>
+    </g>
+    <g
+       id="g1410-6"
+       transform="translate(-199.8389,89.040327)">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect833-7-2-9-3"
+         width="29.015327"
+         height="7.908371"
+         x="126.15063"
+         y="102.7457"
+         ry="3.8931797"
+         rx="3.7551119" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="129.4682"
+         y="108.6599"
+         id="text845-2-6-4-8"><tspan
+           sodipodi:role="line"
+           x="129.4682"
+           y="108.6599"
+           style="stroke-width:0.264583"
+           id="tspan1210-5">harmony</tspan></text>
+    </g>
+  </g>
+</svg>
