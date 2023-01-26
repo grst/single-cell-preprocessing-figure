@@ -1,7 +1,7 @@
 # single-cell-preprocessing-figure
 An overview of different single-cell processing paths (from counts to UMAP)
 
-![sc-preprocessing.svg.png](sc-preprocessing.svg)
+![sc-preprocessing.svg.png](sc-preprocessing.svg.png)
 
 Starting with
 an unfiltered, high-dimensional count matrix, technical artifacts such as doublets and
